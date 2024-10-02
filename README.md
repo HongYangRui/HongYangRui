@@ -1,5 +1,6 @@
 <h1 align="center">Hi👋, I'm Yangrui Hong</h1>
 <p align="center"><u>A game developer who just graduated from Newcastle University with an MSc in Computer Game Engineering and is looking for an opportunity to enter the industry.</u></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HongYangRui)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
