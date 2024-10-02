@@ -2,7 +2,7 @@
 <p align="center"><u><strong>A game developer who just graduated from Newcastle University with an MSc in Computer Game Engineering and is looking for an opportunity to enter the industry.</strong></u></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HongYangRui&color=blue" alt="Profile views" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HongYangRui)](https://github.com/ryo-ma/github-profile-trophy)
