@@ -8,8 +8,8 @@
 ### <p align="center">Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c++" alt="C++">
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine" alt="Unreal Engine 5">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="OpenGL">
 </p>
 
 ### <p align="center">Connect with me:</p>
